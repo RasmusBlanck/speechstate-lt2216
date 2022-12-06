@@ -37,6 +37,8 @@ interface SDSContext {
     audioCtx: any;
 
     title: string;
+    day: string;
+    time: string;
     category: string;
     joke: string;
 }
@@ -53,4 +55,5 @@ type SDSEvent =
     | { type: 'ENDSPEECH' }
     | { type: 'LISTEN' }
     | { type: 'TIMEOUT' }
+    | { type: 'RECSTOP' }
     | { type: 'SPEAK', value: string };
