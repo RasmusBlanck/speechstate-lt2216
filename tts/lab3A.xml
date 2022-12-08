@@ -1,0 +1,8 @@
+<speak version="1.0" xmlns="https://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="en-US">
+  <voice name="en-US-JaneNeural">
+  <!--<mstts:express-as style="excited">-->
+    The biggest <prosody pitch="-20Hz" rate="-20%">loser</prosody> among the top 10 <prosody contour ="(40%,-20%)">cryptocurrencies</prosody> is <prosody contour="(90%,+20%)">bitcoin cash</prosody> (BCH), <break time="300ms"/><prosody rate="-20%">down</prosody> <say-as interpret-as="fraction">10.58</say-as> percent in the last 24 hours. It's also down <say-as interpret-as="fraction">24.11</say-as> percent from the recent <prosody pitch="+20Hz" rate = "-20%">high </prosody>  of $1,641.40. 
+  <!--</mstts:express-as>-->
+  </voice>
+</speak>
+
